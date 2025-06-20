@@ -9,9 +9,9 @@ This project is a fully responsive **static business website** built using **Rea
 ## 🛠️ Tech Stack
 
 - **Frontend Framework:** React.js (Functional Components + Hooks)
-- 
+  
 - **Styling:** Tailwind CSS
--
+  
 - **Deployment:** Vercel
 
 ## 📁 Folder Structure
